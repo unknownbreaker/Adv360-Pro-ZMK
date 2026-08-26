@@ -45,7 +45,7 @@
         mac_sleep: sleep_combo {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LA(LG(K_PWR))>;
+            bindings = <&kp LA(LG(K_POWER))>;
             label = "SLEEP_COMBO";
         };
     };
